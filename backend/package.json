@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "jimp": "^1.6.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.13.0",
+    "promptparse": "^1.4.0",
+    "qrcode-reader": "^1.0.4",
+    "rcon": "^1.1.0",
+    "rcon-client": "^4.2.5",
+    "sequelize": "^6.37.6"
+  }
+}
